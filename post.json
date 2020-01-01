@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "content":"HEllo World",
+  "author": {
+    "id": 2,
+    "name": "Getachew"
+  },
+  "comments": [{
+    "id": 3,
+    "content": "Have a neice time!",
+    "author": "Adam"
+  },
+    {
+      "id": 4,
+    "content": "Good Morning!",
+    "author": "Getu"
+  }
+  ]
+}
